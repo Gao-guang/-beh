@@ -1,0 +1,8 @@
+prefix=/home/gguang/github_my/chat_test_msg/install
+
+Name: chat_my2
+Description: Description of chat_my2
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

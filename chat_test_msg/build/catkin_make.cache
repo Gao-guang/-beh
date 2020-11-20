@@ -1,0 +1,2 @@
+chat_my2
+-DCATKIN_DEVEL_PREFIX=/home/gguang/github_my/chat_test_msg/devel -DCMAKE_INSTALL_PREFIX=/home/gguang/github_my/chat_test_msg/install -G Unix Makefiles
